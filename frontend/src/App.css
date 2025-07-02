@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+  background-color: #f9fafb;
+  color: #333;
+  padding: 20px;
+}
+button {
+  cursor: pointer;
+}

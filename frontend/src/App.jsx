@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import './App.css'
 
-const tg = window.Telegram.WebApp
+const tg = window.Telegram?.WebApp
 
 function App() {
   const [playerName, setPlayerName] = useState('')
