@@ -1,1 +1,3 @@
-frontend/node_moodules
+# 忽略 node_modules 和缓存
+frontend/node_modules/
+frontend/node_modules/.cache/
