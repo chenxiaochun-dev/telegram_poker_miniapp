@@ -1,0 +1,1 @@
+players = {}  # { user_id: name }
