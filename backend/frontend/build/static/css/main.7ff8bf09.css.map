@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.7ff8bf09.css","mappings":"AAAA,KAEE,wBAAyB,CACzB,UAAW,CAFX,sBAAuB,CAGvB,YACF,CACA,OACE,cACF","sources":["App.css"],"sourcesContent":["body {\n  font-family: sans-serif;\n  background-color: #f9fafb;\n  color: #333;\n  padding: 20px;\n}\nbutton {\n  cursor: pointer;\n}\n"],"names":[],"sourceRoot":""}
